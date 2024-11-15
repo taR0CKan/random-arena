@@ -1,0 +1,5 @@
+﻿  CProject.cpp
+C:\Users\revil\source\repos\CProject\CProject\Enemy.h(33,14): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\revil\source\repos\CProject\CProject\Enemy.h(47,22): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\revil\source\repos\CProject\CProject\Enemy.h(53,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CProject.vcxproj -> C:\Users\revil\source\repos\CProject\x64\Debug\CProject.exe
